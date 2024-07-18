@@ -22,6 +22,7 @@ Hello! I'm a passionate DevOps engineer with a strong focus on GCP network secur
 - **CI-CD:** Jenkins, GitHub Actions.
 - **VPN Technologies:** Cloud VPN, Cross Cloud VPN, WireGaurd(TailScale), OpenVPN.
 - **Linux Hardening:** Ubuntu, Debian, RedHat.
+- **Cloud Networking Tools (GCP):** VPC, VPC peering, PSC, PSA, DNS, Firewall & policies, NGFW, Cloud VPN, Interconnect, NCC, VPCSC, Shared VPC, Packet Mirroring, IPS, IDS. 
 
 ## Key Skills
 - **Cloud Platforms:** Google Cloud Platform (GCP)
