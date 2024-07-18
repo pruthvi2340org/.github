@@ -6,10 +6,10 @@
 Hello! I'm a passionate DevOps engineer with a strong focus on GCP network security. I specialize in designing and implementing secure, scalable, and efficient cloud infrastructure. My goal is to bridge the gap between development and operations by automating workflows and ensuring the security of cloud environments.
 
 ## Key Skills
-- **Cloud Platforms:** Google Cloud Platform (GCP), AWS
+- **Cloud Platforms:** Google Cloud Platform (GCP)
 - **Network Security:** Firewalls, VPNs, VPCs, IAM, SSL/TLS, Encryption
-- **DevOps Tools:** Terraform, Kubernetes, Docker, Jenkins, Ansible
-- **Programming Languages:** Python, Bash, Go
+- **DevOps Tools:** Terraform, Kubernetes, Docker, Jenkins, Ansible, Inspec, Keycloak, Hashicorp Vault, locust, Consul, OpenVpn, Tailscale, Proxmox, Openstack, Helm, Postman, Argo CD
+- **Programming Languages:** Python, Bash
 - **Version Control:** Git, GitHub
 - **CI/CD:** Continuous Integration, Continuous Deployment, Infrastructure as Code (IaC)
 
@@ -25,13 +25,12 @@ Scripts and configurations for setting up Keycloak with a reverse proxy and SSL 
 A comprehensive guide and repository for setting up an automated CI/CD pipeline using Jenkins, Docker, and Kubernetes.
 
 ## Certifications
+- Cisco Certified Network Associate
 - Google Professional Cloud Security Engineer
-- Google Professional DevOps Engineer
-- AWS Certified Solutions Architect – Associate
-- Certified Kubernetes Administrator (CKA)
+- Google Professional Architect
 
 ## Contact
-- **Email:** your.email@example.com
+- **Email:** pruthvis2340@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 
