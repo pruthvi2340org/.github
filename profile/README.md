@@ -5,6 +5,14 @@
 ## About Me
 Hello! I'm a passionate DevOps engineer with a strong focus on GCP network security. I specialize in designing and implementing secure, scalable, and efficient cloud infrastructure. My goal is to bridge the gap between development and operations by automating workflows and ensuring the security of cloud environments.
 
+## Tools & Technology
+- **ID AUTH:** (GCP) Workload Identity Federation, Keycloak, Hashicorp Vault.
+- **Monitoring:** (GCP) Cloud Monitoring, Prometheus, Grafana.
+- **Logging:** (GCP) Cloud Logging, ELK Stack (Elasticsearch, Logstash, Kibana), New Relic.
+- **Cloud Security Tools:** Google Cloud Security Command Center (SCC), Google Cloud Identity and Access Management (IAM)
+- **Network Security Tools:** Wireshark, Snort, Nmap
+- **Code Scanning Tools:** Terrascan, Tflint, Terraform Docs, SonarQube, OWASP ZAP (Zed Attack Proxy), OpenSCAP, Qualys Cloud Platform.
+
 ## Key Skills
 - **Cloud Platforms:** Google Cloud Platform (GCP)
 - **Network Security:** Firewalls, VPNs, VPCs, IAM, SSL/TLS, Encryption
