@@ -12,6 +12,8 @@ Hello! I'm a passionate DevOps engineer with a strong focus on GCP network secur
 - **Cloud Security Tools:** Google Cloud Security Command Center (SCC), Google Cloud Identity and Access Management (IAM)
 - **Network Security Tools:** Wireshark, Snort, Nmap
 - **Code Scanning Tools:** Terrascan, Tflint, Terraform Docs, SonarQube, OWASP ZAP (Zed Attack Proxy), OpenSCAP, Qualys Cloud Platform.
+- **Functional Testing:** Postman, Inspec, Terraform Kitchen, Terraform test & Check.
+- **Network Techonolfies:** OpenDaylight, Network Function Virtualization (NFV), SD-WAN, 
 
 ## Key Skills
 - **Cloud Platforms:** Google Cloud Platform (GCP)
