@@ -19,7 +19,9 @@ Hello! I'm a passionate DevOps engineer with a strong focus on GCP network secur
 - **Secret Management:** Secret Manager (GCP), HCP Vault, Github Secrets.
 - **Certificate Management:** HCP vault, Letsencrypt, CertBot.
 - **Load Balancer:** (ILB, proxy ilb, GLBC, Apigee Gateway), Nignix Ingress.
-- ****
+- **CI-CD:** Jenkins, Github Actions.
+- **VPN Technologies:** Cloud VPN, Cross Cloud VPN, WireGaurd(TailScale), OpenVPN.
+- 
 
 ## Key Skills
 - **Cloud Platforms:** Google Cloud Platform (GCP)
