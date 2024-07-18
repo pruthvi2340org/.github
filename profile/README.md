@@ -9,11 +9,17 @@ Hello! I'm a passionate DevOps engineer with a strong focus on GCP network secur
 - **ID AUTH:** (GCP) Workload Identity Federation, Keycloak, Hashicorp Vault.
 - **Monitoring:** (GCP) Cloud Monitoring, Prometheus, Grafana.
 - **Logging:** (GCP) Cloud Logging, ELK Stack (Elasticsearch, Logstash, Kibana), New Relic.
-- **Cloud Security Tools:** Google Cloud Security Command Center (SCC), Google Cloud Identity and Access Management (IAM)
+- **Cloud Security Tools:** Google Cloud Security Command Center (SCC), Google Cloud Identity and Access Management (IAM), KMS (GCP), NGFW (GCP), Certificate Manager (GCP), Cloud Armor.
 - **Network Security Tools:** Wireshark, Snort, Nmap
 - **Code Scanning Tools:** Terrascan, Tflint, Terraform Docs, SonarQube, OWASP ZAP (Zed Attack Proxy), OpenSCAP, Qualys Cloud Platform.
 - **Functional Testing:** Postman, Inspec, Terraform Kitchen, Terraform test & Check.
-- **Network Techonolfies:** OpenDaylight, Network Function Virtualization (NFV), SD-WAN, 
+- **Network Techonolgies:** OpenDaylight, Cisco Thousand Eyes, Network Function Virtualization (NFV), SD-WAN, SDN, python-network-automation, Google Cloud IoT Edge.
+- **Container:** Docker.
+- **Container orchestration:** Google Kubernetes Engine, Istio, Antos config management.
+- **Secret Management:** Secret Manager (GCP), HCP Vault, Github Secrets.
+- **Certificate Management:** HCP vault, Letsencrypt, CertBot.
+- **Load Balancer:** (ILB, proxy ilb, GLBC, Apigee Gateway), Nignix Ingress.
+- ****
 
 ## Key Skills
 - **Cloud Platforms:** Google Cloud Platform (GCP)
