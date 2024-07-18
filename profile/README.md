@@ -13,15 +13,15 @@ Hello! I'm a passionate DevOps engineer with a strong focus on GCP network secur
 - **Network Security Tools:** Wireshark, Snort, Nmap
 - **Code Scanning Tools:** Terrascan, Tflint, Terraform Docs, SonarQube, OWASP ZAP (Zed Attack Proxy), OpenSCAP, Qualys Cloud Platform.
 - **Functional Testing:** Postman, Inspec, Terraform Kitchen, Terraform test & Check.
-- **Network Techonolgies:** OpenDaylight, Cisco Thousand Eyes, Network Function Virtualization (NFV), SD-WAN, SDN, python-network-automation, Google Cloud IoT Edge.
+- **Network Technologies:** OpenDaylight, Cisco Thousand Eyes, Network Function Virtualization (NFV), SD-WAN, SDN, python-network-automation, Google Cloud IoT Edge.
 - **Container:** Docker.
 - **Container orchestration:** Google Kubernetes Engine, Istio, Antos config management.
 - **Secret Management:** Secret Manager (GCP), HCP Vault, Github Secrets.
 - **Certificate Management:** HCP vault, Letsencrypt, CertBot.
-- **Load Balancer:** (ILB, proxy ilb, GLBC, Apigee Gateway), Nignix Ingress.
-- **CI-CD:** Jenkins, Github Actions.
+- **Load Balancer:** (ILB, Proxy Ilb, GLBC, Apigee Gateway), Nignix Ingress.
+- **CI-CD:** Jenkins, GitHub Actions.
 - **VPN Technologies:** Cloud VPN, Cross Cloud VPN, WireGaurd(TailScale), OpenVPN.
-- 
+- **Linux Hardening:** Ubuntu, Debian, RedHat.
 
 ## Key Skills
 - **Cloud Platforms:** Google Cloud Platform (GCP)
